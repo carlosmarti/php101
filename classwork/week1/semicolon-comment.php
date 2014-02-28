@@ -5,6 +5,6 @@
   </head>
   <body>
   <p><?php echo "Fix this string" ?></p>
-  <p><?php echo "Comment me out"; ?></p>
+  <p><?php /*echo "Comment me out"; */?></p>
   </body>
 </html>

@@ -5,6 +5,13 @@
   </head>
   <body>
     <!-- Add your PHP code in the tag below -->
-    <p></p>
+    <p>
+    	<?php
+    	$hot = "cold";
+    	?>
+    	<?php
+    	echo $hot;
+    	?>
+    </p>
   </body>
 </html>

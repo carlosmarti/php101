@@ -6,10 +6,13 @@
   <body>
     <p>
       <?php
-        $students = 8;
-        if ($students > 5) {
+        $students = 3;
+        if ($students > 5) 
+        {
           echo "Holy crap thats a lot of students!";
-        } else {
+        } 
+        else 
+        {
           echo "Meh, theres a couple students";
         }
       ?>
