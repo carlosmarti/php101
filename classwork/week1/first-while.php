@@ -5,6 +5,7 @@
   </head>
   <body>
     <?php
+    
     // write a while loop
     ?>
   </body>

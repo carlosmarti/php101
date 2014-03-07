@@ -5,7 +5,13 @@
   </head>
   <body>
     <?php
+    do
+    {
+    	$i++;
+    	echo $i<br>;
       // write your own do-while loop
+    }
+    while($i < 5)
     ?>
   </body>
 </html>
